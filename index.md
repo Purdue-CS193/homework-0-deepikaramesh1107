@@ -17,8 +17,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+
+- Practical knowledge
+- useful info on terminals
+- the powerpoint presentation!
 
 1. Numbered
 2. List
